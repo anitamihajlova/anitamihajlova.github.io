@@ -11410,7 +11410,7 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: right;
   color: #008000;
-  background-image: url("../assets/img/aml_mockup.png");
+  background-image: url("../assets/img/mockups/aml_intro_mockup.png");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -11720,8 +11720,8 @@ header.masthead .masthead-heading {
 
 section#contact {
   background-color: #f0f0f0;
-  background-image: url("../assets/img/bc_mockup_2.png");
-  background-size: cover;
+  background-image: url("../assets/img/mockups/aml_bc_mockup.png");
+  background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
 }
